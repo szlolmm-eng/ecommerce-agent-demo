@@ -1,0 +1,207 @@
+[
+  {
+    "name": "冰感防晒袖",
+    "description": "冰丝透气面料，高弹不勒手臂，适合通勤、骑行和户外防晒",
+    "costPrice": 8.5,
+    "title": "冰感防晒袖｜品质优选 实用之选",
+    "category": "其他商品",
+    "sellingPoints": [
+      "精选品质，适合日常使用",
+      "产品亮点：冰丝透气面料，高弹不勒手臂，适合通勤、骑行和户外防晒",
+      "高性价比，兼顾品质与预算",
+      "包装完好，安心选购"
+    ],
+    "generatedDescription": "冰感防晒袖，为注重品质与实用性的消费者打造。冰丝透气面料，高弹不勒手臂，适合通勤、骑行和户外防晒。从使用体验到细节设计均充分考虑日常需求，适合自用或送礼。",
+    "suggestedPrice": 19.9,
+    "grossMargin": 57.3,
+    "ruleChecks": [
+      {
+        "name": "字段完整性",
+        "passed": true,
+        "message": "标题、分类、描述及卖点均已生成"
+      },
+      {
+        "name": "售价规则",
+        "passed": true,
+        "message": "售价 ¥19.90 高于成本价 ¥8.50"
+      },
+      {
+        "name": "毛利率规则",
+        "passed": true,
+        "message": "预计毛利率 57.3%（要求不低于 20%）"
+      },
+      {
+        "name": "标题长度",
+        "passed": true,
+        "message": "标题 15 字符（上限 60）"
+      }
+    ],
+    "productId": "PRD-MUMHD11K-4F41",
+    "publishedAt": "2026-09-29T09:34:57.416Z",
+    "status": "published"
+  },
+  {
+    "name": "便携补光灯",
+    "description": "手机夹持式补光灯，三色温多档亮度，适合直播、自拍与视频会议",
+    "costPrice": 32,
+    "title": "便携补光灯｜品质优选 实用之选",
+    "category": "数码配件",
+    "sellingPoints": [
+      "精选品质，适合日常使用",
+      "产品亮点：手机夹持式补光灯，三色温多档亮度，适合直播、自拍与视频会议",
+      "高性价比，兼顾品质与预算",
+      "包装完好，安心选购"
+    ],
+    "generatedDescription": "便携补光灯，为注重品质与实用性的消费者打造。手机夹持式补光灯，三色温多档亮度，适合直播、自拍与视频会议。从使用体验到细节设计均充分考虑日常需求，适合自用或送礼。",
+    "suggestedPrice": 59.9,
+    "grossMargin": 46.6,
+    "ruleChecks": [
+      {
+        "name": "字段完整性",
+        "passed": true,
+        "message": "标题、分类、描述及卖点均已生成"
+      },
+      {
+        "name": "售价规则",
+        "passed": true,
+        "message": "售价 ¥59.90 高于成本价 ¥32.00"
+      },
+      {
+        "name": "毛利率规则",
+        "passed": true,
+        "message": "预计毛利率 46.6%（要求不低于 20%）"
+      },
+      {
+        "name": "标题长度",
+        "passed": true,
+        "message": "标题 15 字符（上限 60）"
+      }
+    ],
+    "productId": "PRD-MUJOGTHA",
+    "publishedAt": "2026-09-27T10:30:33.022Z",
+    "status": "published"
+  },
+  {
+    "name": "冰感防晒袖",
+    "description": "冰丝透气面料，高弹不勒手臂，适合通勤、骑行和户外防晒",
+    "costPrice": 8.5,
+    "title": "冰感防晒袖｜品质优选 实用之选",
+    "category": "其他商品",
+    "sellingPoints": [
+      "精选品质，适合日常使用",
+      "产品亮点：冰丝透气面料，高弹不勒手臂，适合通勤、骑行和户外防晒",
+      "高性价比，兼顾品质与预算",
+      "包装完好，安心选购"
+    ],
+    "generatedDescription": "冰感防晒袖，为注重品质与实用性的消费者打造。冰丝透气面料，高弹不勒手臂，适合通勤、骑行和户外防晒。从使用体验到细节设计均充分考虑日常需求，适合自用或送礼。",
+    "suggestedPrice": 19.9,
+    "grossMargin": 57.3,
+    "ruleChecks": [
+      {
+        "name": "字段完整性",
+        "passed": true,
+        "message": "标题、分类、描述及卖点均已生成"
+      },
+      {
+        "name": "售价规则",
+        "passed": true,
+        "message": "售价 ¥19.90 高于成本价 ¥8.50"
+      },
+      {
+        "name": "毛利率规则",
+        "passed": true,
+        "message": "预计毛利率 57.3%（要求不低于 20%）"
+      },
+      {
+        "name": "标题长度",
+        "passed": true,
+        "message": "标题 15 字符（上限 60）"
+      }
+    ],
+    "productId": "PRD-MUJOGBJC",
+    "publishedAt": "2026-09-27T10:30:09.768Z",
+    "status": "published"
+  },
+  {
+    "name": "冰感防晒袖",
+    "description": "冰丝透气面料，高弹不勒手臂，适合通勤、骑行和户外防晒",
+    "costPrice": 8.5,
+    "title": "冰感防晒袖｜品质优选 实用之选",
+    "category": "其他商品",
+    "sellingPoints": [
+      "精选品质，适合日常使用",
+      "产品亮点：冰丝透气面料，高弹不勒手臂，适合通勤、骑行和户外防晒",
+      "高性价比，兼顾品质与预算",
+      "包装完好，安心选购"
+    ],
+    "generatedDescription": "冰感防晒袖，为注重品质与实用性的消费者打造。冰丝透气面料，高弹不勒手臂，适合通勤、骑行和户外防晒。从使用体验到细节设计均充分考虑日常需求，适合自用或送礼。",
+    "suggestedPrice": 19.9,
+    "grossMargin": 57.3,
+    "ruleChecks": [
+      {
+        "name": "字段完整性",
+        "passed": true,
+        "message": "标题、分类、描述及卖点均已生成"
+      },
+      {
+        "name": "售价规则",
+        "passed": true,
+        "message": "售价 ¥19.90 高于成本价 ¥8.50"
+      },
+      {
+        "name": "毛利率规则",
+        "passed": true,
+        "message": "预计毛利率 57.3%（要求不低于 20%）"
+      },
+      {
+        "name": "标题长度",
+        "passed": true,
+        "message": "标题 15 字符（上限 60）"
+      }
+    ],
+    "productId": "PRD-MUJNXN4V",
+    "publishedAt": "2026-09-27T10:15:38.335Z",
+    "status": "published"
+  },
+  {
+    "name": "便携手冲咖啡壶",
+    "description": "304不锈钢材质，600毫升容量，细口设计，适合办公室和露营使用",
+    "costPrice": 80,
+    "title": "便携手冲咖啡壶｜品质优选 实用之选",
+    "category": "食品饮料",
+    "sellingPoints": [
+      "精选品质，适合日常使用",
+      "产品亮点：304不锈钢材质，600毫升容量，细口设计，适合办公室和露营使用",
+      "高性价比，兼顾品质与预算",
+      "包装完好，安心选购"
+    ],
+    "generatedDescription": "便携手冲咖啡壶，为注重品质与实用性的消费者打造。304不锈钢材质，600毫升容量，细口设计，适合办公室和露营使用。从使用体验到细节设计均充分考虑日常需求，适合自用或送礼。",
+    "suggestedPrice": 149.9,
+    "grossMargin": 46.6,
+    "ruleChecks": [
+      {
+        "name": "字段完整性",
+        "passed": true,
+        "message": "标题、分类、描述及卖点均已生成"
+      },
+      {
+        "name": "售价规则",
+        "passed": true,
+        "message": "售价 ¥149.90 高于成本价 ¥80.00"
+      },
+      {
+        "name": "毛利率规则",
+        "passed": true,
+        "message": "预计毛利率 46.6%（要求不低于 20%）"
+      },
+      {
+        "name": "标题长度",
+        "passed": true,
+        "message": "标题 17 字符（上限 60）"
+      }
+    ],
+    "productId": "PRD-MUJMMV0R",
+    "publishedAt": "2026-09-27T09:39:15.723Z",
+    "status": "published"
+  }
+]
