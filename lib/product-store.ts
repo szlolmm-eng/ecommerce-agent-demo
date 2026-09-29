@@ -44,12 +44,7 @@ export class LocalProductRepository implements ProductRepository {
 }
 
 export class ProductionProductRepository implements ProductRepository {
-  private ensureConfigured() {
-    if (!process.env.BLOB_READ_WRITE_TOKEN) throw new Error("生产存储尚未配置，请连接 Vercel Blob Store");
-  }
-
   async list(): Promise<PublishedProduct[]> {
-    this.ensureConfigured();
     const products: PublishedProduct[] = [];
     let cursor: string | undefined;
     do {
@@ -66,7 +61,6 @@ export class ProductionProductRepository implements ProductRepository {
   }
 
   async publish(draft: ProductDraft): Promise<PublishedProduct> {
-    this.ensureConfigured();
     assertPublishable(draft);
     const product = createPublishedProduct(draft);
     await put(`products/${product.productId}.json`, JSON.stringify(product), { access: "private", addRandomSuffix: false, contentType: "application/json" });
